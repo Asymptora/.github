@@ -1,6 +1,6 @@
 # Cazuza Data Engineering Portfolio
 
-We are **Higor** and **Janaína Cazuza**, a couple of data engineers working together to create scalable and innovative data solutions. Our goal with this repository is to showcase our ability to collaborate on large-scale projects and tackle complex challenges in Data Engineering.
+We are **Janaína Cazuza** and **Higor Cazuza**, a couple of data engineers working together to create scalable and innovative data solutions. Our goal with this repository is to showcase our ability to collaborate on large-scale projects and tackle complex challenges in Data Engineering.
 
 By combining our skills and knowledge, we are able to take on larger and more challenging projects, building robust solutions in the areas of Big Data, ETL Pipelines, Data Mesh, and Cloud Platforms. The repository reflects our experience in working together, managing code collaboratively, and delivering impactful solutions.
 
@@ -29,6 +29,7 @@ By combining our skills and knowledge, we are able to take on larger and more ch
 
 ## Contact
 
-- **Email**: cazuza.engineering@proton.me
-- **LinkedIn**: [Higor Cazuza](https://www.linkedin.com/in/higor-cazuza)  
+
 - **LinkedIn**: [Janaína Cazuza](https://www.linkedin.com/in/janainacazuza)
+- **LinkedIn**: [Higor Cazuza](https://www.linkedin.com/in/higor-cazuza)  
+- **Email**: cazuza.engineering@proton.me
