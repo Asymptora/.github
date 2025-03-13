@@ -31,5 +31,6 @@ By combining our skills and knowledge, we are able to take on larger and more ch
 
 
 - **LinkedIn**: [Janaína Cazuza](https://www.linkedin.com/in/janainacazuza)
+- **Email**: janainacazuza@proton.me
 - **LinkedIn**: [Higor Cazuza](https://www.linkedin.com/in/higor-cazuza)  
-- **Email**: cazuza.engineering@proton.me
+- **Email**: higocazuza@protonmail.com
