@@ -1,6 +1,6 @@
 <img src="LINK_DA_IMAGEM_DO_BANNER" alt="AxioML Banner" width="100%">
 
-# <img src="https://img.icons8.com/color/48/000000/brain.png" width="30"/> AxioML: Analytics, Big Data & Machine Learning
+# <img src="https://img.icons8.com/color/48/000000/aximl.png" width="30"/> AxioML: Analytics, Big Data & Machine Learning
 
 ## 🔍 Sobre Nós
 **Higor & Janaína Cazuza**  
