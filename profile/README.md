@@ -1,4 +1,3 @@
-<img src="./axioml.png" alt="AxioML Banner" width="1000" height="400">
 
 # **AxioML:** Analytics, Big Data e Machine Learning  
 
