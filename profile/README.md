@@ -1,36 +1,52 @@
-# Cazuza Data Engineering Portfolio
+<img src="LINK_DA_IMAGEM_DO_BANNER" alt="AxioML Banner" width="100%">
 
-We are **Janaína Cazuza** and **Higor Cazuza**, a couple of data engineers working together to create scalable and innovative data solutions. Our goal with this repository is to showcase our ability to collaborate on large-scale projects and tackle complex challenges in Data Engineering.
+# <img src="https://img.icons8.com/color/48/000000/brain.png" width="30"/> AxioML: Analytics, Big Data & Machine Learning
 
-By combining our skills and knowledge, we are able to take on larger and more challenging projects, building robust solutions in the areas of Big Data, ETL Pipelines, Data Mesh, and Cloud Platforms. The repository reflects our experience in working together, managing code collaboratively, and delivering impactful solutions.
+## 🔍 Sobre Nós
+**Higor & Janaína Cazuza**  
+👨‍🔬 **Estatístico | Modelagem Quantitativa**  
+👩‍💻 **Cientista da Computação | Engenharia de Dados**  
 
-## Technologies and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017C7B?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF4F00?style=for-the-badge&logo=databricks&logoColor=white)
+Casados por amor e unidos por dados! Combinamos estatística avançada e engenharia robusta para construir soluções na interseção entre **finanças quantitativas e inteligência artificial**.
 
-## Featured Projects
-   
-1. **ETL Pipelines for Big Data**  
-   Development of efficient pipelines to process large volumes of data.
+## 🚀 Nossa Stack Tecnológica
 
-2. **Cloud Data Solutions**  
-   Building scalable and secure data solutions using AWS and GCP.
+### 📊 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-3. **Big Data Analytics with Spark**  
-   Large-scale data analysis with Apache Spark, focusing on performance and efficiency.
+### ⚡ Engenharia de Dados
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-## Contact
+### 🛠️ MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
 
+## 🌟 Projetos em Destaque
 
-- **LinkedIn**: [Janaína Cazuza](https://www.linkedin.com/in/janainacazuza)
-- **Email**: janainacazuza@proton.me
-- **LinkedIn**: [Higor Cazuza](https://www.linkedin.com/in/higor-cazuza)  
-- **Email**: higocazuza@protonmail.com
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [📈 Sistema de Previsão de Séries Temporais](#) | Modelos quantitativos para mercado financeiro | Python, TensorFlow, Prophet |
+| [⚡ Pipeline ETL Financeiro](#) | Solução escalável para processamento de dados | Spark, Airflow, AWS Glue |
+| [🤖 Plataforma MLOps](#) | Automação de treino e deploy de modelos | MLflow, FastAPI, Kubernetes |
+
+## 📚 Artigos Recentes
+- [📖 "O φ das Finanças Quantitativas"](#)
+- [📖 "Engenharia de Features em Mercados Financeiros"](#)
+- [📖 "MLOps: Do Notebook à Produção"](#)
+
+## 🌐 Conecte-se
+[![LinkedIn Higor](https://img.shields.io/badge/Higor_Cazuza-0077B5?logo=linkedin)](https://linkedin.com/in/higor-cazuza)
+[![LinkedIn Janaína](https://img.shields.io/badge/Janaína_Cazuza-0077B5?logo=linkedin)](https://linkedin.com/in/janaina-cazuza)
+[![Medium](https://img.shields.io/badge/AxioML_Blog-000000?logo=medium)](https://medium.com/@axioml)
+
+---
+
+<p align="center">
+  <em>AxioML: 2 mentes conectadas, 1 rede neural</em>  
+  <img src="https://img.icons8.com/color/96/000000/heart.png" width="20"/>
+</p>
