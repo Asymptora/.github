@@ -43,10 +43,9 @@ Este portfólio é um reflexo do nosso compromisso com excelência técnica e in
 - [📖 "Engenharia de Features em Mercados Financeiros"](#)
 - [📖 "MLOps: Do Notebook à Produção"](#)
 
-## 🌐 Conecte-se
-[![LinkedIn Higor](https://img.shields.io/badge/Higor_Cazuza-0077B5?logo=linkedin)](https://linkedin.com/in/higor-cazuza)
-[![LinkedIn Janaína](https://img.shields.io/badge/Janaína_Cazuza-0077B5?logo=linkedin)](https://linkedin.com/in/janaina-cazuza)
-[![Medium](https://img.shields.io/badge/AxioML_Blog-000000?logo=medium)](https://medium.com/@axioml)
+## 📩 Contato  
+✉️ Higor Cazuza: [higorcazuza@protonmail.com](mailto:higorcazuza@protonmail.com)  
+✉️ Janaína Cazuza: [janainacazuza@proton.me](mailto:janainacazuza@proton.me)  
 
 ---
 
