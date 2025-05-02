@@ -1,55 +1,58 @@
 
-# **AxioML:** Analytics, Big Data e Machine Learning  
+# **Asymptora**  
+### *Precisão Analítica, Crescimento Exponencial*  
+**Data-Driven Growth Engineering | Scalable MLOps**  
 
-## 🔍 Sobre Nós
+## 🔍 Sobre Nós  
+Somos **Janaína e Higor Cazuza**, especialistas em dados que constroem motores de crescimento escaláveis. Combinamos:  
 
-Somos Higor Cazuza e Janaína Cazuza, um casal movido por dados, precisão e automação. Unimos Ciência de Dados Quantitativa e Engenharia de Dados/MLOps para transformar informações em inteligência escalável.
+- **Growth Analytics**  
+  → Modelagem de Atribuição (Shapley Value, Markov Chains)  
+  → Experimentação em Tempo Real (A/B Testing Bayesianos)  
+  → Otimização de Funis de Conversão (CAC/LTV Dynamics)  
 
-📌 Sobre nós:
+- **Engenharia para Growth**  
+  → Pipelines de Tracking HIPAA/GDPR-Compliant  
+  → Arquiteturas Real-Time para Personalização em Escala  
+  → Automação de Growth Loops com IA Generativa  
 
-🔹 Higor Cazuza – Estatístico em formação, apaixonado por modelagem quantitativa e previsão de mercado.
+### 🎯 Nossa Filosofia  
+> *"Growth sustentável exige dados confiáveis e algoritmos implacáveis – nós entregamos ambos."*  
 
-🔹 Janaína Cazuza – Formanda em Ciência da Computação, especialista em infraestrutura e automação de dados.
+## 🛠 Stack Tecnológica  
 
-Nosso objetivo é aplicar nossas expertises na interseção entre dados e finanças, explorando modelagem preditiva, séries temporais, algoritmos quantitativos e sistemas escaláveis para otimização de decisões estratégicas.
-
-Este portfólio é um reflexo do nosso compromisso com excelência técnica e inovação. Cada artigo, projeto e experimento publicado aqui é um passo rumo à maestria em dados.
-
-## Nossa Stack Tecnológica
-
-### 📊 Data Science & Analytics
+### 📊 **Growth Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![PySpark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Meta_API](https://img.shields.io/badge/Meta_API-0668E1?logo=meta&logoColor=white)
 
-### ⚡ Engenharia de Dados
+### ⚡ **Growth Engineering**  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Vertex_AI](https://img.shields.io/badge/Vertex_AI-FF6F01?logo=googlecloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
-## 🌟 Projetos em Destaque
+## 🌟 **Projetos Orientados a Growth**  
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [📈 Sistema de Previsão de Séries Temporais](#) | Modelos quantitativos para mercado financeiro | Python, TensorFlow, Prophet |
-| [⚡ Pipeline ETL Financeiro](#) | Solução escalável para processamento de dados | Spark, Airflow, AWS Glue |
-| [🤖 Plataforma MLOps](#) | Automação de treino e deploy de modelos | MLflow, FastAPI, Kubernetes |
+| Projeto | Impacto | Stack |  
+|---------|---------|-------|  
+| **[📈 Otimização de CAC via Attribution Modeling](#)** | -22% CAC em 3 meses | Shapley Value, Meta Ads API |  
+| **[🤖 Growth Engine para E-commerce](#)** | +18% conversão via recomendações em tempo real | Kafka, Redis, TensorFlow |  
+| **[⚡ Data Lakehouse para Experimentação](#)** | 300+ testes A/B/mês com governança | Databricks, MLflow, Great Expectations |  
 
-## 📚 Artigos Recentes
-- [📖 "O φ das Finanças Quantitativas"](#)
-- [📖 "Engenharia de Features em Mercados Financeiros"](#)
-- [📖 "MLOps: Do Notebook à Produção"](#)
+## 📚 **Artigos Táticos**  
+- [📖 "Decifrando o ROAS Real com Causal Inference"](#)  
+- [📖 "Architecture Patterns para Growth em Escala"](#)  
+- [📖 "Deploy de LLMs para Personalização em 48h"](#)  
 
-## 📩 Contato  
-✉️ Higor Cazuza: [higorcazuza@protonmail.com](mailto:higorcazuza@protonmail.com)  
-✉️ Janaína Cazuza: [janainacazuza@proton.me](mailto:janainacazuza@proton.me)  
+## 📩 **Parcerias Estratégicas**  
+- ✉️ **Growth Emergency**: [growth@asymptora.com](mailto:growth@asymptora.com)  
+- 💻 **GitHub**: [github.com/asymptora](https://github.com/asymptora)  
+- ✍️ **Playbooks de Growth**: [medium.com/asymptora](https://medium.com/asymptora)  
 
----
-
+---  
 <p align="center">
-  <em>AxioML: Duas Mentes Conectadas Criando Inteligência</em>  
-  <img src="./axioml.png" alt="AxioML Banner" width="30"/>
+  <em>"Não otimizamos métricas - reescrevemos regras de crescimento."</em>  
+  <img src="https://img.icons8.com/ios/50/rocket--v1.png" alt="Growth Rocket" width="20"/>
 </p>
