@@ -1,58 +1,104 @@
 
 # **Asymptora**  
-### *Precisão Analítica, Crescimento Exponencial*  
-**Data-Driven Growth Engineering | Scalable MLOps**  
+### *Otimização Contínua em Engenharia de Dados*  
+**Infraestrutura Escalável | Pipelines Otimizadas | Big Data**  
+
 
 ## 🔍 Sobre Nós  
-Somos **Janaína e Higor Cazuza**, especialistas em dados que constroem motores de crescimento escaláveis. Combinamos:  
+Somos **Janaína** e **Higor Cazuza**, especialistas em Engenharia de Dados com formações complementares: **Janaína** é Cientista da Computação e **Higor** é Estatístico. Juntos, unimos a precisão matemática e a arquitetura de sistemas para construir soluções robustas em Engenharia de Dados, unindo os dois pilares centrais da Inteligência Artificial e do Big Data.
 
-- **Growth Analytics**  
-  → Modelagem de Atribuição (Shapley Value, Markov Chains)  
-  → Experimentação em Tempo Real (A/B Testing Bayesianos)  
-  → Otimização de Funis de Conversão (CAC/LTV Dynamics)  
+- **Arquitetura de Dados**  
+  → Projetos de Data Lakehouse, ingestão em larga escala e arquitetura modular com boas práticas de governança. 
 
-- **Engenharia para Growth**  
-  → Pipelines de Tracking HIPAA/GDPR-Compliant  
-  → Arquiteturas Real-Time para Personalização em Escala  
-  → Automação de Growth Loops com IA Generativa  
 
-### 🎯 Nossa Filosofia  
-> *"Growth sustentável exige dados confiáveis e algoritmos implacáveis – nós entregamos ambos."*  
+- **Orquestração de Pipelines**  
+  →  Automação de fluxos com Apache Airflow, dbt e integração contínua (CI/CD) com observabilidade.
 
-## 🛠 Stack Tecnológica  
+- **Big Data & Processamento Massivo**  
+  →  Spark, PySpark e transformação de dados em larga escala com foco em performance e escalabilidade.
 
-### 📊 **Growth Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
-![Meta_API](https://img.shields.io/badge/Meta_API-0668E1?logo=meta&logoColor=white)
+- **Modelagem e Armazenamento de Dados**  
+  →  Projetos de bancos relacionais e NoSQL com foco em desempenho e integridade.
 
-### ⚡ **Growth Engineering**  
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Vertex_AI](https://img.shields.io/badge/Vertex_AI-FF6F01?logo=googlecloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
-## 🌟 **Projetos Orientados a Growth**  
+### 🎯 Nossa Filosofia
 
-| Projeto | Impacto | Stack |  
-|---------|---------|-------|  
-| **[📈 Otimização de CAC via Attribution Modeling](#)** | -22% CAC em 3 meses | Shapley Value, Meta Ads API |  
-| **[🤖 Growth Engine para E-commerce](#)** | +18% conversão via recomendações em tempo real | Kafka, Redis, TensorFlow |  
-| **[⚡ Data Lakehouse para Experimentação](#)** | 300+ testes A/B/mês com governança | Databricks, MLflow, Great Expectations |  
+> **"Engenharia de Dados não é sobre mover dados — é sobre criar infraestrutura confiável para decisões estratégicas em escala."**
 
-## 📚 **Artigos Táticos**  
-- [📖 "Decifrando o ROAS Real com Causal Inference"](#)  
-- [📖 "Architecture Patterns para Growth em Escala"](#)  
-- [📖 "Deploy de LLMs para Personalização em 48h"](#)  
+Na Asymptora, acreditamos que engenharia de dados moderna vai além da técnica. Ela exige:
 
-## 📩 **Parcerias Estratégicas**  
-- ✉️ **Growth Emergency**: [growth@asymptora.com](mailto:growth@asymptora.com)  
-- 💻 **GitHub**: [github.com/asymptora](https://github.com/asymptora)  
-- ✍️ **Playbooks de Growth**: [medium.com/asymptora](https://medium.com/asymptora)  
+- **Escalabilidade por design**: estruturas modulares, reutilizáveis e preparadas para crescer com o negócio.
+- **Observabilidade e confiabilidade**: dados rastreáveis, pipelines auditáveis e alertas proativos.
+- **Velocidade com responsabilidade**: entregamos rápido, mas com testes, versionamento e governança de ponta a ponta.
+- **Apoio à experimentação e produto**: dados acessíveis e confiáveis para times de Machine Learning, Analytics e Produto inovarem com segurança.
+- **Colaboração multidisciplinar**: conectamos Engenharia, Estatística e Ciência da Computação com fluidez para acelerar entregas com rigor técnico.
+
+> **"Na era do real time e dos LLMs, a base é mais crítica do que nunca. Nós a tornamos antifrágil."**
+
+
+## 🛠 Stack Tecnológica
+
+### ☁️ **Cloud & Infraestrutura**
+Nossa infraestrutura é orientada por práticas **cloud-native**, com foco em serviços gerenciados que garantem **escalabilidade**, **resiliência** e **governança de dados**.
+
+- **AWS (S3, IAM, EC2, Lambda):** Armazenamento escalável, controle de acesso granular e funções serverless para automações.
+- **Terraform:** Provisionamento de infraestrutura como código (IaC).
+- **Docker & GitHub Actions:** Containerização e CI/CD para pipelines reprodutíveis.
+
+### 🔄 **Orquestração & Modelagem de Dados**
+Priorizamos pipelines modulares, observáveis e auditáveis, desde a ingestão até a transformação semântica.
+
+- **Apache Airflow:** Agendamento e dependências entre tarefas de dados.
+- **dbt (Data Build Tool):** Transformações SQL com versionamento, testes e documentação.
+- **Dagster:** Orquestração orientada a reuso e data quality integrada.
+
+### ⚡ **Big Data & Processamento Distribuído**
+Construímos pipelines de alta performance para grandes volumes de dados, em batch e real-time.
+
+- **Apache Spark / PySpark:** Processamento paralelo e transformação de dados massivos.
+- **Kafka:** Ingestão e transmissão de eventos em tempo real com baixa latência.
+- **Delta Lake:** Controle de versão, transações ACID e schema enforcement no Data Lake.
+
+### 🧠 **Governança e Qualidade**
+Garantimos dados confiáveis e auditáveis com foco em rastreabilidade, testes e validação contínua.
+
+- **Great Expectations:** Validação automatizada e testes unitários de dados.
+- **Data Contracts & Logging estruturado:** Padrões rigorosos para entrega de dados.
+
+### 🗃️ **Armazenamento & Modelagem**
+Dados organizados para desempenho e acessibilidade, com diferentes tecnologias para diferentes finalidades.
+
+- **BigQuery / PostgreSQL:** Armazenamento analítico e relacional performático.
+- **MongoDB:** Modelagem flexível para dados semi-estruturados e workloads NoSQL.
+
+
+## 🌟 **Projetos em Engenharia de Dados Escalável**
+
+| Projeto | Impacto | Stack |
+|---------|---------|-------|
+| **[⚙️ Pipeline Modular com Observabilidade](#)** | Redução de 40% no tempo de debug e retrabalho em dados | Airflow, dbt, Great Expectations, DataDog |
+| **[📡 Ingestão Streaming com Garantia de Ordem](#)** | Processamento de 5M+ eventos/dia com latência <1s | Kafka, Spark Structured Streaming, Delta Lake |
+| **[🔐 Data Lakehouse Governado com Data Contracts](#)** | Aumento de 60% na confiabilidade dos dados de produto | Terraform, AWS S3, Lake Formation, dbt |
+| **[📊 Métricas Self-Service com Modelagem em Camadas](#)** | Democratização de insights para 15+ squads | dbt, BigQuery, Looker |
+| **[🚨 Alertas de Qualidade via Testes de Dados Automatizados](#)** | Detecção proativa de falhas em pipelines críticos | Airflow, Great Expectations, Slack Webhooks |
+
+## 📚 **Artigos Técnicos de Engenharia**
+
+- [📖 "Como projetamos um Lakehouse auditável com Delta Lake + Spark"](#)
+- [📖 "Padrões de Orquestração Resiliente em Airflow para Ambientes Produtivos"](#)
+- [📖 "Implementando Data Contracts no ciclo de vida dos dados analíticos"](#)
+- [📖 "Monitoramento de Pipelines com Observabilidade e Métricas Personalizadas"](#)
+- [📖 "Design de Modelos Analíticos em Camadas com dbt"](#)
+
+
+## 📩 **Conecte-se com o Asymptora**
+
+- ✉️ **Consultas Técnicas & Colaborações:** [contato@asymptora.com](mailto:contato@asymptora.com)  
+- 💻 **GitHub:** [github.com/asymptora](https://github.com/asymptora)  
+- ✍️ **Publicações Técnicas:** [medium.com/asymptora](https://medium.com/asymptora)
 
 ---  
 <p align="center">
-  <em>"Não otimizamos métricas - reescrevemos regras de crescimento."</em>  
+  <em>"Engenharia de Dados não é sobre mover dados — é sobre criar infraestrutura confiável para decisões estratégicas em escala."</em>  
   <img src="https://img.icons8.com/ios/50/rocket--v1.png" alt="Growth Rocket" width="20"/>
 </p>
