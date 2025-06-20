@@ -28,7 +28,7 @@ Somos **Janaina** e **Higor Cazuza**, engenheira de dados e estatístico, respec
 | Categoria               | Tecnologias                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | **☁️ Cloud & Infra**    | AWS (S3, IAM, Lambda), Docker, GitHub Actions                    |
-| **🔄 Orquestração**     | Airflow, Dagster, dbt, CI/CD com testes                                     |
+| **🔄 Orquestração**     | Airflow, dbt, CI/CD com testes                                     |
 | **📊 Analytics**        | Python (Pandas, SciPy), SQL, Power BI                       |
 | **🗃️ Bancos de Dados** | BigQuery, PostgreSQL, MongoDB         |
 
