@@ -54,7 +54,7 @@ Somos **Janaina** e **Higor Cazuza**, engenheira de dados e estatístico, respec
 
 ✉️ **Email:** [contato@asymptora.com](mailto:contato@asymptora.com)  
 💻 **GitHub:** [github.com/asymptora](https://github.com/asymptora)  
-✍️ **Blog:** [medium.com/asymptora](https://medium.com/asymptora)  
+✍️ **Blog:** [medium.com/asymptora](https://medium.com/@asymptora)  
 
 ---
 
