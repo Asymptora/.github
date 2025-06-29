@@ -4,7 +4,7 @@
 **Laboratório de Engenharia e Arquitetura de Dados**
 
 > Um portfólio de projetos de engenharia de dados por  
-> [Higor Cazuza](LINK_PARA_SEU_GITHUB) & [Janaína Cazuza](LINK_PARA_O_GITHUB_DA_JANAINA)
+> [Higor Cazuza](https://github.com/higorcazuza81) & [Janaína Cazuza](https://github.com/janainacazuza)
 
 Bem-vindo à **Asymptora**! Aqui, exploramos, projetamos e implementamos soluções de dados ponta-a-ponta. Acreditamos que a engenharia de dados moderna vai além de mover informações; trata-se de criar fundações confiáveis, escaláveis e que gerem valor real para o negócio.
 
@@ -59,7 +59,7 @@ Juntos, transformamos nossa paixão em projetos de dados criativos, construídos
 ## 📫 Contato
 
 - **Higor Cazuza**  
-  [LinkedIn](LINK_PARA_SEU_LINKEDIN) | [GitHub](LINK_PARA_SEU_GITHUB)
+  [LinkedIn](https://www.linkedin.com/in/higorcazuza/) | [GitHub](https://github.com/higorcazuza81)
 
 - **Janaína Cazuza**  
-  [LinkedIn](LINK_PARA_O_LINKEDIN_DA_JANAINA) | [GitHub](LINK_PARA_O_GITHUB_DA_JANAINA)
+  [LinkedIn](https://www.linkedin.com/in/janainacazuza/) | [GitHub](https://github.com/janainacazuza)
