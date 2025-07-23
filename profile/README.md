@@ -1,88 +1,56 @@
-# Asymptora: Transforming E-commerce & Logistics Data into Strategic Impact
+# Asymptora: A Data Engineering Portfolio
 
-> **Powering Smarter Business Through Data Engineering & Analytics Engineering for E-commerce & Logistics**
+### Building and Documenting Enterprise-Grade Data Platforms on the Cloud.
 
-<p align="center">
-  End-to-end data solutions specialized in E-commerce and Logistics, from robust event ingestion to strategic analytical modeling.
-  <br/>
-  <strong>By <a href="https://github.com/janainacazuza" target="_blank">Janaína Cazuza (Data Engineer)</a> & <a href="https://github.com/higorcazuza81" target="_blank">Higor Cazuza (Analytics Engineer)</a></strong>
+This repository serves as the engineering lab for **Higor Cazuza** and **Janaína Cazuza**, two Data Engineers on a journey to master the art of building scalable and reliable data systems.
+
+Here, we will tackle data challenges by designing, implementing, and documenting end-to-end solutions, putting modern data engineering principles into practice.
+
+---
+
+### 🚀 Our First Mission: Project Lakehouse Foundation (Phase 1)
+
+This repository will house the first major project of our Asymptora journey, corresponding to **Phase 1: The Foundation** of our career development plan. The primary objective is to design and implement a complete, production-ready data pipeline on AWS, showcasing mastery over fundamental data engineering concepts.
+
+#### Planned Architecture
+
+The planned architecture will follow modern, modular principles designed for scalability and maintainability. Our goal is to create a blueprint for robust data ingestion and processing.
+
+**[ ARCHITECTURE DIAGRAM TO BE ADDED ONCE DESIGN IS FINALIZED ]**
+
+The core components of the planned architecture are:
+
+1.  **Infrastructure as Code (IaC):** The entire AWS infrastructure (VPC, S3 Buckets, EC2, IAM roles) will be defined and managed programmatically using **Terraform**. This ensures a completely automated and reproducible environment.
+2.  **Containerized Logic:** Data processing logic, written in **Python** and **SQL**, will be packaged into **Docker** containers. This provides consistency across development and production environments.
+3.  **Orchestration:** **Apache Airflow** will be used to schedule and orchestrate the entire workflow, from data ingestion to final transformation, ensuring reliability and clear dependency management.
+4.  **Data Lake Storage:** Raw and processed data will be stored in Amazon S3, establishing a scalable and cost-effective data lake foundation.
+
+---
+
+### 📈 Project Status
+
+* **Status:** ⏳ **Planning & Setup Phase**
+* **Kick-off:** July 2025 
+* **Next Milestone:** Initial infrastructure provisioning via Terraform.
+
+---
+
+### 🛠️ Core Tech Stack (Phase 1)
+
+This project will exclusively use the technologies defined as the core foundation for a competitive Data Engineer.
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
 </p>
 
 ---
 
-## 🎯 Our Focus
+### 👷 The Engineers
 
-We specialize in **Data Engineering and Analytics Engineering solutions for E-commerce and Logistics**, turning operational complexity into analytical clarity. Our work empowers product, operations, and marketing teams to optimize customer experience, delivery performance, and data-driven strategy.
-
----
-
-## 🔍 Methodology: A Governed End-to-End Data Lifecycle
-
-Grounded in the modern ELT paradigm, we ensure a clear separation of concerns and maximize both efficiency and data integrity. Each phase emphasizes automation, governance, and domain-specific best practices.
-
-| Phase                                              | Description                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Data Engineering & Platform Foundation**      | Architect and maintain scalable, event-driven pipelines (Airflow + AWS) to ingest high-volume clicks, orders, and fulfillment events into a central warehouse (AWS Redshift). Emphasis on integrity, observability, and serverless automation.                                                 |
-| **2. Analytics Engineering & Business Enablement** | Apply advanced **dbt** and **SQL** to transform raw events into governed analytical models—sessions, orders, deliveries—delivering a Single Source of Truth. Build documented, tested, and business-aligned schemas that empower self-service analytical capabilities and strategic decisions. |
-
----
-
-## 📚 Domain Case Studies
-
-Each project illustrates our methodology in action, with detailed READMEs and replayable code.
-
-<details>
-  <summary><strong>Case Study: Conversion Funnel & Cohort Analysis</strong></summary>
-  <br/>
-  **Objective:** Optimize checkout performance by structuring clickstream and order events into a dimensional star schema.
-  - **Data Engineering (Janaína):** Built incremental Airflow pipelines to ingest session and order logs from S3 to Redshift.
-  - **Analytics Engineering (Higor):** Developed **dbt** models (`stg_sessions`, `fct_orders`, `dim_customer`) with rigorous tests for funnel drop-offs and cohort retention metrics.
-  **Outcome:** Improved conversion by 12% in 4 weeks through targeted UX experiments.  
-  [➡️ View Project Details]([LINK_PARA_REPO_FUNNEL])
-</details>
-
-<details>
-  <summary><strong>Case Study: Delivery Performance & Demand Forecasting</strong></summary>
-  <br/>
-  **Objective:** Enhance logistics efficiency by modeling fulfillment events and predicting daily SKU demand.
-  - **Data Engineering (Janaína):** Orchestrated end-to-end AWS Lambda and Airflow workflows to collect and enrich tracking events.
-  - **Analytics Engineering (Higor):** Implemented a **dbt** pipeline (`int_fulfillment`, `fct_forecast`) integrating Great Expectations for SLA tests and producing feature tables for machine learning.
-  **Outcome:** Reduced late delivery rate by 18% and improved inventory planning accuracy by 22%.  
-  [➡️ View Project Details]([LINK_PARA_REPO_FORECAST])
-</details>
-
----
-
-## 🤝 Our Expertise
-
-A synergistic partnership delivering deep domain knowledge and technical excellence:
-
-* **Janaína Cazuza (Data Engineer):** Architect of event-driven systems, AWS automation, and resilient pipelines ensuring data availability and integrity (E & L in ELT).
-* **Higor Cazuza (Analytics Engineer):** Specialist in constructing and validating analytical data models—rigorous testing and documentation that business teams trust (T in ELT).
-
-Together, we ensure solutions that are both technically robust and strategically aligned with E-commerce and Logistics objectives.
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool / Framework       | Domain Application                          |
-| ---------------------- | ------------------------------------------- |
-| **Airflow**            | Event-driven ingestion & scheduling         |
-| **AWS Redshift**       | High-performance data warehousing           |
-| **dbt**                | Modular SQL modeling & testing              |
-| **Great Expectations** | SLA and data quality tests                  |
-| **Git & CI/CD**        | Version control & automated deployments     |
-| **Feature Stores**     | Demand forecasting & personalization models |
-| **Looker / Metabase**  | Self-service analytical dashboards          |
-
----
-
-## 📫 Contact
-
-* **Janaína Cazuza:** [LinkedIn](https://www.linkedin.com/in/janainacazuza/) | [GitHub](https://github.com/janainacazuza)
-* **Higor Cazuza:** [LinkedIn](https://www.linkedin.com/in/higorcazuza/) | [GitHub](https://github.com/higorcazuza81)
-
----
-
-*Powering Smarter Business Through Data Engineering & Analytics Engineering for E-commerce & Logistics*
+* **Higor Cazuza** | [LinkedIn](https://www.linkedin.com/in/higorcazuza/) | [GitHub](https://github.com/higorcazuza81)
+* **Janaína Cazuza** | [LinkedIn](https://www.linkedin.com/in/janainacazuza/) | [GitHub](https://github.com/janainacazuza)
