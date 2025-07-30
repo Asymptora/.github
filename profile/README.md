@@ -1,56 +1,52 @@
-# Asymptora: A Data Engineering Portfolio
+# Asymptora: Data Engineering P&D Lab
 
-### Building and Documenting Enterprise-Grade Data Platforms on the Cloud.
-
-This repository serves as the engineering lab for **Higor Cazuza** and **Janaína Cazuza**, two Data Engineers on a journey to master the art of building scalable and reliable data systems.
-
-Here, we will tackle data challenges by designing, implementing, and documenting end-to-end solutions, putting modern data engineering principles into practice.
+### Building Production-Grade Data Platforms on Azure & AWS.
 
 ---
 
-### 🚀 Our First Mission: Project Lakehouse Foundation (Phase 1)
+## Our Mission
 
-This repository will house the first major project of our Asymptora journey, corresponding to **Phase 1: The Foundation** of our career development plan. The primary objective is to design and implement a complete, production-ready data pipeline on AWS, showcasing mastery over fundamental data engineering concepts.
+Asymptora is an advanced engineering lab dedicated to designing, implementing, and documenting enterprise-grade, cloud-native data solutions. Our core philosophy is that true expertise is demonstrated by building robust, scalable, and automated systems from first principles. We don't just use platforms; we engineer them.
 
-#### Planned Architecture
+## Our Expertise: A Dual-Cloud Approach
 
-The planned architecture will follow modern, modular principles designed for scalability and maintainability. Our goal is to create a blueprint for robust data ingestion and processing.
+We operate on a multi-cloud model with dedicated, deep specialization, allowing us to architect the best solution for the problem, not just for a single cloud.
 
-**[ ARCHITECTURE DIAGRAM TO BE ADDED ONCE DESIGN IS FINALIZED ]**
+* ### 🔷 **Azure Practice (Lead: Higor Cazuza)**
+    Focus on leveraging the full power of the Azure data ecosystem—from Data Lake Storage and Databricks to Azure Synapse—to build end-to-end analytical platforms, all provisioned and managed via Terraform.
 
-The core components of the planned architecture are:
+* ### 🔶 **AWS Practice (Lead: Janaína Cazuza)**
+    Focus on architecting scalable and cost-efficient data solutions using the AWS stack, including services like S3, Glue, Lambda, and Redshift, automated through the AWS CDK and Terraform.
 
-1.  **Infrastructure as Code (IaC):** The entire AWS infrastructure (VPC, S3 Buckets, EC2, IAM roles) will be defined and managed programmatically using **Terraform**. This ensures a completely automated and reproducible environment.
-2.  **Containerized Logic:** Data processing logic, written in **Python** and **SQL**, will be packaged into **Docker** containers. This provides consistency across development and production environments.
-3.  **Orchestration:** **Apache Airflow** will be used to schedule and orchestrate the entire workflow, from data ingestion to final transformation, ensuring reliability and clear dependency management.
-4.  **Data Lake Storage:** Raw and processed data will be stored in Amazon S3, establishing a scalable and cost-effective data lake foundation.
-
----
-
-### 📈 Project Status
-
-* **Status:** ⏳ **Planning & Setup Phase**
-* **Kick-off:** July 2025 
-* **Next Milestone:** Initial infrastructure provisioning via Terraform.
+This dual-specialist model enables deep cross-training and ensures our solutions are built on a foundation of diverse, best-in-class architectural patterns.
 
 ---
 
-### 🛠️ Core Tech Stack (Phase 1)
+## Project Portfolio
 
-This project will exclusively use the technologies defined as the core foundation for a competitive Data Engineer.
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
-</p>
+This section showcases our end-to-end projects. Each repository represents a complete solution to a complex data challenge.
 
 ---
 
-### 👷 The Engineers
+### 🔹 Project: Enterprise Data Lakehouse on Azure
+* **Lead Engineer:** [Higor Cazuza](https://github.com/higorcazuza81)
+* **Status:** `In Progress`
+* **Core Stack:** `Azure`, `Terraform`, `Databricks`, `Delta Lake`, `Airflow`, `Python`
+* **Objective:** To design and build a scalable Lakehouse architecture on Azure, capable of ingesting batch and streaming data, processing it through Bronze, Silver, and Gold layers, and serving it to analytical consumers.
+* **➡️ [View Project Repository](https://github.com/Asymptora/PROJECT-REPO-LINK-HERE)**
+
+---
+
+### 🔸 Project: Real-Time Analytics Pipeline on AWS
+* **Lead Engineer:** [Janaína Cazuza](https://github.com/janainacazuza)
+* **Status:** `Planning`
+* **Core Stack:** `AWS`, `Terraform`, `Kinesis`, `Lambda`, `DynamoDB`, `Python`
+* **Objective:** To implement a serverless, real-time data ingestion and processing pipeline on AWS to power a live dashboard application.
+* **➡️ [View Project Repository](https://github.com/Asymptora/PROJECT-REPO-LINK-HERE)**
+
+---
+
+## The Engineers
 
 * **Higor Cazuza** | [LinkedIn](https://www.linkedin.com/in/higorcazuza/) | [GitHub](https://github.com/higorcazuza81)
 * **Janaína Cazuza** | [LinkedIn](https://www.linkedin.com/in/janainacazuza/) | [GitHub](https://github.com/janainacazuza)
